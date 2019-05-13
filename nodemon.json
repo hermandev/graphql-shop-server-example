@@ -1,0 +1,8 @@
+{
+  "env":{
+    "MONGO_URL_DEV":"mongodb://127.0.0.1:27017/",
+    "MONGO_USER":"awp-shop",
+    "MONGO_PASSWORD":"7qvt6t2738",
+    "MONGO_DB":"awp-shop-app"
+  }
+}
